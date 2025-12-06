@@ -63,11 +63,11 @@ export function LandingPage() {
             </div>
         </section>
          <section className="grid grid-3">
-            <div className="">LUNDEV</div>
-            <div className="">DESIGNER</div>
-            <div className="">DEVELOPER</div>
-            <div className="">SUBCRIBE +</div>
-            <div className="">SEE MORE &#8599;</div>
+            <div className="autoBlur">LUNDEV</div>
+            <div className="autoBlur">DESIGNER</div>
+            <div className="autoBlur">DEVELOPER</div>
+            <div className="autoBlur">SUBCRIBE +</div>
+            <div className="autoBlur">SEE MORE &#8599;</div>
         </section>
      </main>
   );
